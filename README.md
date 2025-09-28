@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 XORA
-!(/public/xora.svg)
+![Logo](/public/images/xora.svg)
 
 
 **Amazingly Simple Video Editing**
