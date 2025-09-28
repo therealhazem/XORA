@@ -247,16 +247,16 @@ The application can be deployed to any platform that supports static sites:
 <div align="center">
 
 ### Hero Section
-![Hero Section](/images/Hero.png)
+![Hero Section](Hero-copy.png)
 
 ### Features Section
-![Features Section](/images/Features.png)
+![Features Section](Features.png)
 
 ### Pricing Plans
-![Pricing Plans](/images/Pricing.png)
+![Pricing Plans](Pricing.png)
 
 ### Testimonials
-![Testimonials](/images/Testimonials.png)
+![Testimonials](Testimonials.png)
 
 </div>
 
