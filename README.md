@@ -1,6 +1,6 @@
 <div align="center">
 
-#![Logo](/public/images/xora.svg)
+![Logo](/public/images/xora.svg)
 
 
 **Amazingly Simple Video Editing**
