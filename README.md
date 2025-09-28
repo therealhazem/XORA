@@ -1,6 +1,8 @@
 <div align="center">
 
 # 🎬 XORA
+!(/public/xora.svg)
+
 
 **Amazingly Simple Video Editing**
 
@@ -247,7 +249,7 @@ The application can be deployed to any platform that supports static sites:
 <div align="center">
 
 ### Hero Section
-![Hero Section](Hero-copy.png)
+![Hero Section](Hero.png)
 
 ### Features Section
 ![Features Section](Features.png)
